@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @ericzhaoblog
+- 👋 Hi, I’m @ericzhao
 - 👀 I’m interested in making pigeon.
 -~~Also making love~~
